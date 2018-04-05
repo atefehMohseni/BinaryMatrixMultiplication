@@ -1,0 +1,15 @@
+E:\My projects\Matrix\Matrix\bin\Debug\Matrix.exe.config
+E:\My projects\Matrix\Matrix\bin\Debug\Matrix.exe
+E:\My projects\Matrix\Matrix\bin\Debug\Matrix.pdb
+E:\My projects\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+E:\My projects\Matrix\Matrix\obj\Debug\Matrix.exe
+E:\My projects\Matrix\Matrix\obj\Debug\Matrix.pdb
+E:\My projects\Matrix 2\Matrix\bin\Debug\Matrix.exe.config
+E:\My projects\Matrix 2\Matrix\obj\Debug\Matrix.exe
+E:\My projects\Matrix 2\Matrix\obj\Debug\Matrix.pdb
+E:\My projects\Matrix 2\Matrix\bin\Debug\Matrix.exe
+E:\My projects\Matrix 2\Matrix\bin\Debug\Matrix.pdb
+E:\My projects\Matrix 2\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\project\Matrix 2\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Lenovo\Desktop\project\Matrix 2\Matrix\obj\Debug\Matrix.exe
+C:\Users\Lenovo\Desktop\project\Matrix 2\Matrix\obj\Debug\Matrix.pdb
